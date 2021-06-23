@@ -1,2 +1,2 @@
 # Portfolio
-A collection of my projects so far!
+A collection of my data science projects.
